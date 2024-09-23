@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, my name is Sachit Lele 
+I'm currently a engineering student majoring in Artificial Intelligence and Machine Learning from Symbiosis Institute of Technology
 
 
 Here are some ideas to get you started:
